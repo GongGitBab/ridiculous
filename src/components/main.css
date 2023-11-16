@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    
+    margin-top: 3%;
+}
+.cardshape{
+    width: 400px;
+    height: 210px;
+    background-color: black;
+    margin: 5% auto 0px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.hrline{
+    width: 80%;
+    height: 2px;
+    background-color: gray;
+    margin: auto;
+}
+
+.allline{
+    text-align: right;
+    padding-right: 15%;
+    margin-top: 5%;
+    font-size: 20px;
+}
