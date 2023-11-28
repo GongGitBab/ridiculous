@@ -21,9 +21,22 @@ h1{
     margin: auto;
 }
 
-.allline{
-    text-align: right;
-    padding-right: 15%;
+.cardlineleft{
     margin-top: 5%;
     font-size: 20px;
+    margin-left: 15%;
+    font-size: 23px;
+    width: 40%;
+}
+.cardlineright{
+    margin-top: 5%;
+    font-size: 20px;
+    margin-left: 15%;
+    font-size: 23px;
+    width: 40%;
+    text-align: right;
+    margin-right: 20%;
+}
+.test{
+    display: flex;
 }

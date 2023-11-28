@@ -8,9 +8,15 @@ const Main = () => {
       <div className='cardshape'>
             이거 카드임~
       </div>
-      <div className='allline'>
-        니이름
+      <div className='test'>
+      <div className='cardlineleft'>
+        이름
       </div>
+      <div className='cardlineright'>
+       셀레스트 릴리안 단테 석진
+      </div>
+      </div>
+
       <div className='hrline' />
     </div>
   );
