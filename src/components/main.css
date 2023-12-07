@@ -13,23 +13,25 @@ h1{
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-bottom: 3%;
+    border-radius: 16px;
 }
 .hrline{
-    width: 80%;
+    width: 60%;
     height: 2px;
     background-color: gray;
     margin: auto;
 }
 
 .cardlineleft{
-    margin-top: 5%;
+    margin-top: 3%;
     font-size: 20px;
-    margin-left: 15%;
+    margin-left: 20%;
     font-size: 23px;
     width: 40%;
 }
 .cardlineright{
-    margin-top: 5%;
+    margin-top: 3%;
     font-size: 20px;
     margin-left: 15%;
     font-size: 23px;
@@ -39,4 +41,18 @@ h1{
 }
 .test{
     display: flex;
+}
+
+.cardSelectComplete{
+    width: 40%;
+    height: 60px;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 48px;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+
+    background-color: black;
 }
